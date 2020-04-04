@@ -1,2 +1,2 @@
-# lukas.sajnog-gmail.com
+# Corneek
 simpleFlashcards
